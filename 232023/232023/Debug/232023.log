@@ -1,0 +1,3 @@
+﻿  232023.cpp
+C:\Users\glogi\source\repos\232023\232023\232023.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  232023.vcxproj -> C:\Users\glogi\source\repos\232023\Debug\232023.exe
